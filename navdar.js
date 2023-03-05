@@ -1,1 +1,1 @@
-console.log('HELLO WORLD')
+console.log('Навдар я тебя взломал')
