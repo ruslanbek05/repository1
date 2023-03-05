@@ -1,2 +1,3 @@
-# repository1
-ghjjhgfghjhgf
+
+
+в этом файле есть конфликт. Решите. 
